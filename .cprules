@@ -1,0 +1,19 @@
+This is a Vite React + shadcn project. No .env or environment files are supported in this environment.
+
+# React Dev Guidelines
+
+## Always
+- Make sure the UI is styled and looks great
+- Create responsive designs
+- Use Tailwind CSS for styling
+- Use shadcn/ui components. useToast is defined in src/hooks/use-toast.ts
+- Show toast notifications for important events
+
+## Don't
+- Add try/catch blocks unless requested
+
+## Available Packages
+- lucide-react: icons
+- recharts: data visualization
+- shadcn/ui: UI components
+- @tanstack/react-query: data fetching
