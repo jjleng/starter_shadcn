@@ -18,8 +18,5 @@ export default defineConfig({
       // Additional delay between file change detection and reload
       binaryInterval: 500,
     },
-    // Wait for 50ms after server is ready before accepting connections
-    // This helps ensure server is fully initialized
-    warmupTimeout: 50,
   },
 });
