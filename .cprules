@@ -1,4 +1,4 @@
-This is a Vite React + shadcn project.
+This is a Vite React + shadcn project. No .env or environment files are supported in this environment.
 
 # React Dev Guidelines
 
