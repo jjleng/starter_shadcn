@@ -1,1 +1,18 @@
 This is a Vite React + shadcn project.
+
+# React Dev Guidelines
+
+## Always
+- Create responsive designs
+- Use Tailwind CSS for styling
+- Use shadcn/ui components
+- Show toast notifications for important events
+
+## Don't
+- Add try/catch blocks unless requested
+
+## Available Packages
+- lucide-react: icons
+- recharts: data visualization
+- shadcn/ui: UI components
+- @tanstack/react-query: data fetching
